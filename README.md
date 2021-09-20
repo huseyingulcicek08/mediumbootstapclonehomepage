@@ -18,5 +18,4 @@
 
 <br><br># Bootstrap-Medium-Homepage-Clone
 
-# mediumbootstapclonehomepage
 
